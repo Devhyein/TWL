@@ -63,7 +63,6 @@
   }
   .top-btn {
     position: fixed;
-    left: 1rem;
     top: 90vh;
     left: 10vw;
     width: 60px;
@@ -71,5 +70,11 @@
     font-weight: bolder;
     background-color: rgb(144, 153, 240);
     font-size: 1rem;
+  }
+
+  @media (max-width: 414px) {
+    .top-btn {
+      left: 1vh;
+    }
   }
 </style>
