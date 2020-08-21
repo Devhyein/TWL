@@ -64,26 +64,12 @@
   .top-btn {
     position: fixed;
     left: 1rem;
-    top: 650px;
+    top: 90vh;
+    left: 10vw;
     width: 60px;
     color: white;
     font-weight: bolder;
     background-color: rgb(144, 153, 240);
     font-size: 1rem;
-  }
-  @media (max-width: 414px) {
-    .top-btn {
-      top: 670px
-    }
-  }
-  @media (max-width: 375px) {
-    .top-btn {
-      top: 580px
-    }
-  }
-  @media (min-width: 1024px) {
-    .top-btn {
-      top: 690px;
-    }
   }
 </style>
