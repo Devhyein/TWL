@@ -73,7 +73,7 @@
         />
       </div>
       <div v-if="article" class="nickname-keyword">
-        <div>
+        <div ref="comment">
           <CommentCreate
             :article="article"
             :commentList="sideMenu.commentList"
@@ -224,7 +224,16 @@ export default {
     },
   },
   mounted() {
-    this.getViewer();
+    this.getViewer()
+    console.log(this.$route)
+    if (this.$route.params.at) {
+      setTimeout(() => {
+        const element = this.$refs['comment'];
+        const top = element.offsetTop;
+        window.scrollTo(0,top)
+      },1000)
+    }
+
   },
 };
 </script>

@@ -16,7 +16,11 @@
     created() {
       const params = this.$route.params
       if (params.id !== undefined) {
-        this.$router.push({ name: "ArticleDetail", params: {id: params.id} })
+        if (params.at !== undefined) {
+          this.$router.push({ name: "ArticleDetail", params: {id: params.id, at: params.at} })
+        } else {
+          this.$router.push({ name: "ArticleDetail", params: {id: params.id} })
+        }
       } else if (params.params !== undefined) {
         this.$router.push({ name: "ArticleSearchByStack", query: params.params })
       } else if(params.userInfo !== undefined){
