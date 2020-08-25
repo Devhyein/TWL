@@ -51,9 +51,9 @@
               this.noti.ready = 1
               if (this.noti.type === "follow") {
                 this.$router.push({name: "Dummy", params: {nickname: this.noti.othernickname}})
-              } else {
-                this.$router.push({name: "Dummy", params: {id: this.noti.articleid}})
-              }
+              } else if (this.noti.type === "comment") {
+                this.$router.push({name: "Dummy", params: {id: this.noti.articleid, at: '#comment'}})
+              } else this.$router.push({name: "Dummy", params: {id: this.noti.articleid}})
               // if(res.data.status) this.$store.state.notificationCnt--;
             }
           )
