@@ -63,7 +63,6 @@
   }
   .top-btn {
     position: fixed;
-    left: 1rem;
     top: 90vh;
     left: 10vw;
     width: 60px;
