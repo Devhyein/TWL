@@ -20,10 +20,6 @@
 그래서 준비했습니다. **꿈나무들의 TIL을 모두 모아볼 수 있는 커뮤니티 TWL** 지금부터 시작합니다.
 <br>
 
-#### 배포 주소
-
-http://i3a407.p.ssafy.io/
-<br>
 <br>
 
 ### **:person_frowning: 팀원 소개**
@@ -71,7 +67,7 @@ http://i3a407.p.ssafy.io/
 
 
 <center>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/8db4184be1439df04e569f92368e417b/write.png">
+![write](https://user-images.githubusercontent.com/29700816/100910654-94143300-3511-11eb-8eaf-82e647d53850.png)
 </center>
 
 <br>
@@ -104,7 +100,7 @@ http://i3a407.p.ssafy.io/
 
 <center>
   <img src="https://user-images.githubusercontent.com/53211781/90416591-a34fac00-e0ed-11ea-9718-b084516267fb.jpg" alt="select_signup" width="250px"/>
-  <img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/0fad52f684dc1b5311e4b8ded2face2f/mypageSelectSkills.png" width="250px"/>
+  ![mypageSelectSkills](https://user-images.githubusercontent.com/29700816/100910683-9aa2aa80-3511-11eb-8288-e6eb2349275e.png)
 </center>
 
   ( 사진 좌: 회원가입 페이지 관심사 선택 | 우: 마이페이지 관심사 선택)
@@ -129,7 +125,7 @@ http://i3a407.p.ssafy.io/
 - 관심사, 좋아요 기반 관심글 추천
 
 <center>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/28b8038e7c108925243b100c7b856228/recommend.png">
+![recommend](https://user-images.githubusercontent.com/29700816/100910692-9d050480-3511-11eb-8c7d-92eb631346f0.png)
 </center>
 
 <br>
@@ -156,7 +152,7 @@ http://i3a407.p.ssafy.io/
 #### 3.1 캘린더 기능
 
 <center>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/4351282ba68b80c291c817a1116eef21/calendar.png">
+![calendar](https://user-images.githubusercontent.com/29700816/100910699-9ecec800-3511-11eb-8686-9a4e53be2dfc.png)
 </center>
 
 날짜를 클릭하면 해당 날짜에 작성한 글들만 모아볼 수 있다. 
@@ -194,7 +190,7 @@ DIAMOND : 600 이상
 <center>
 <img src="https://user-images.githubusercontent.com/50816217/90379111-3e785f80-e0b5-11ea-8a46-ff187d4d4553.PNG"  width="300px" style="display:inline">
 <img src="https://user-images.githubusercontent.com/50816217/90379113-3fa98c80-e0b5-11ea-8c8c-c62dfb8f6fed.PNG"  width="300px" style="display:inline">
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/305f78db86796bf62c8da13ec3447550/follow.png"  width="300px" style="display:inline">
+![follow](https://user-images.githubusercontent.com/29700816/100910718-a2fae580-3511-11eb-802e-2b34632f238e.png)
 </center>
 
 
@@ -207,10 +203,9 @@ DIAMOND : 600 이상
 - notification <br/><br/>
 
 <center>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/4e7a73886fcc9a085c45ec06e58842e1/%EC%95%8C%EB%A6%BC1.PNG" width="250px"/>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/1856e3772adb5a3871658afd198e4938/%EC%95%8C%EB%A6%BC2.PNG" width="250px"/>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/154db460e6b864d9f44c19274ef461b3/%EC%95%8C%EB%9E%8C3.PNG" width="250px"/>
-
+<img src="https://user-images.githubusercontent.com/29700816/100910725-a4c4a900-3511-11eb-87a0-85fbbc018ecd.png" width="250px"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910738-aa21f380-3511-11eb-977b-8c6e9c577b5b.png" width="250px"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910756-b017d480-3511-11eb-9cde-afd89451f8af.png" width="250px"/>
 </center>
 
 ( 사진&nbsp;&nbsp;&nbsp;&nbsp; 좌: 알림 &nbsp;&nbsp;  | &nbsp;&nbsp; 중간: 알림 확인  &nbsp;&nbsp; | &nbsp;&nbsp;  우: 읽은 알림 삭제 )
@@ -252,7 +247,7 @@ DIAMOND : 600 이상
 - **6주차** : 오류수정
 
 <center>
-<img src="https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/wikis/uploads/cd75fe232f048594725cdc2007cb02cc/%EC%9D%BC%EC%A0%95.png">
+![일정](https://user-images.githubusercontent.com/29700816/100910767-b312c500-3511-11eb-8ecd-b5916c0f3545.png)
 </center>
 
 <br>
