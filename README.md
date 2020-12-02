@@ -67,7 +67,7 @@
 
 
 <center>
-![write](https://user-images.githubusercontent.com/29700816/100910654-94143300-3511-11eb-8eaf-82e647d53850.png)
+<img src="https://user-images.githubusercontent.com/29700816/100910654-94143300-3511-11eb-8eaf-82e647d53850.png"/>
 </center>
 
 <br>
@@ -100,7 +100,7 @@
 
 <center>
   <img src="https://user-images.githubusercontent.com/53211781/90416591-a34fac00-e0ed-11ea-9718-b084516267fb.jpg" alt="select_signup" width="250px"/>
-  ![mypageSelectSkills](https://user-images.githubusercontent.com/29700816/100910683-9aa2aa80-3511-11eb-8288-e6eb2349275e.png)
+  <img src="https://user-images.githubusercontent.com/29700816/100910683-9aa2aa80-3511-11eb-8288-e6eb2349275e.png" width="250px"/>
 </center>
 
   ( 사진 좌: 회원가입 페이지 관심사 선택 | 우: 마이페이지 관심사 선택)
@@ -125,7 +125,7 @@
 - 관심사, 좋아요 기반 관심글 추천
 
 <center>
-![recommend](https://user-images.githubusercontent.com/29700816/100910692-9d050480-3511-11eb-8c7d-92eb631346f0.png)
+<img src="https://user-images.githubusercontent.com/29700816/100910692-9d050480-3511-11eb-8c7d-92eb631346f0.png width="250px"/>
 </center>
 
 <br>
@@ -152,7 +152,7 @@
 #### 3.1 캘린더 기능
 
 <center>
-![calendar](https://user-images.githubusercontent.com/29700816/100910699-9ecec800-3511-11eb-8686-9a4e53be2dfc.png)
+<img src="https://user-images.githubusercontent.com/29700816/100910699-9ecec800-3511-11eb-8686-9a4e53be2dfc.png" width="300px" />
 </center>
 
 날짜를 클릭하면 해당 날짜에 작성한 글들만 모아볼 수 있다. 
@@ -190,7 +190,7 @@ DIAMOND : 600 이상
 <center>
 <img src="https://user-images.githubusercontent.com/50816217/90379111-3e785f80-e0b5-11ea-8a46-ff187d4d4553.PNG"  width="300px" style="display:inline">
 <img src="https://user-images.githubusercontent.com/50816217/90379113-3fa98c80-e0b5-11ea-8c8c-c62dfb8f6fed.PNG"  width="300px" style="display:inline">
-![follow](https://user-images.githubusercontent.com/29700816/100910718-a2fae580-3511-11eb-802e-2b34632f238e.png)
+<img src="https://user-images.githubusercontent.com/29700816/100910718-a2fae580-3511-11eb-802e-2b34632f238e.png"  width="300px" style="display:inline">
 </center>
 
 
@@ -203,9 +203,9 @@ DIAMOND : 600 이상
 - notification <br/><br/>
 
 <center>
-<img src="https://user-images.githubusercontent.com/29700816/100910725-a4c4a900-3511-11eb-87a0-85fbbc018ecd.png" width="250px"/>
-<img src="https://user-images.githubusercontent.com/29700816/100910738-aa21f380-3511-11eb-977b-8c6e9c577b5b.png" width="250px"/>
-<img src="https://user-images.githubusercontent.com/29700816/100910756-b017d480-3511-11eb-9cde-afd89451f8af.png" width="250px"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910725-a4c4a900-3511-11eb-87a0-85fbbc018ecd.png" width="250px" style="display:inline"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910738-aa21f380-3511-11eb-977b-8c6e9c577b5b.png" width="250px" style="display:inline"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910756-b017d480-3511-11eb-9cde-afd89451f8af.png" width="250px" style="display:inline"/>
 </center>
 
 ( 사진&nbsp;&nbsp;&nbsp;&nbsp; 좌: 알림 &nbsp;&nbsp;  | &nbsp;&nbsp; 중간: 알림 확인  &nbsp;&nbsp; | &nbsp;&nbsp;  우: 읽은 알림 삭제 )
@@ -247,7 +247,7 @@ DIAMOND : 600 이상
 - **6주차** : 오류수정
 
 <center>
-![일정](https://user-images.githubusercontent.com/29700816/100910767-b312c500-3511-11eb-8ecd-b5916c0f3545.png)
+<img src="https://user-images.githubusercontent.com/29700816/100910767-b312c500-3511-11eb-8ecd-b5916c0f3545.png" width="250px"/>
 </center>
 
 <br>
@@ -259,17 +259,17 @@ DIAMOND : 600 이상
 
 ### 1. FrontEnd
 
-1-1. [ToastUi Editor](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/toastui.md)
+1-1. [ToastUi Editor](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/toastui.md)
 
-1-2. [Firebase Storage](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/firebase.md)
+1-2. [Firebase Storage](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/firebase.md)
 
-1-3. [Drag & Drop](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/vue2dropZone.md)
+1-3. [Drag & Drop](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/vue2dropZone.md)
 
-1-4. [AutoComplete](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/autoComplete.md)
+1-4. [AutoComplete](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/autoComplete.md)
 
-1-5. [myPage component props](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/frontend.md)
+1-5. [myPage component props](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/frontend.md)
 
-1-6. [file Download](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/fileDownload.md)
+1-6. [file Download](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/fileDownload.md)
 
 ### 2. BackEnd
 
@@ -277,4 +277,4 @@ DIAMOND : 600 이상
 
 2-2. <a href="../Discussion/최종readme/Notification.md">알림</a>
 
-2-3 [도커 위에 jar 파일 띄우기](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a407/blob/master/Discussion/%EC%B5%9C%EC%A2%85readme/docker_24hour_dist.md)
+2-3 [도커 위에 jar 파일 띄우기](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/docker_24hour_dist.md)
