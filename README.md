@@ -247,7 +247,7 @@ DIAMOND : 600 이상
 - **6주차** : 오류수정
 
 <center>
-<img src="https://user-images.githubusercontent.com/29700816/100910767-b312c500-3511-11eb-8ecd-b5916c0f3545.png" width="250px"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910767-b312c500-3511-11eb-8ecd-b5916c0f3545.png" />
 </center>
 
 <br>
@@ -273,8 +273,8 @@ DIAMOND : 600 이상
 
 ### 2. BackEnd
 
-2-1. <a href="../Discussion/최종readme/Login-JWT-Google.md">로그인</a>
+2-1. <a href="https://github.com/Devhyein/TWL/tree/master/Discussion/최종readme/Login-JWT-Google.md">로그인</a>
 
-2-2. <a href="../Discussion/최종readme/Notification.md">알림</a>
+2-2. <a href="https://github.com/Devhyein/TWL/tree/master/Discussion/최종readme/Notification.md">알림</a>
 
 2-3 [도커 위에 jar 파일 띄우기](https://github.com/Devhyein/TWL/tree/master/Discussion/%EC%B5%9C%EC%A2%85readme/docker_24hour_dist.md)
