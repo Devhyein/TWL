@@ -125,7 +125,7 @@
 - 관심사, 좋아요 기반 관심글 추천
 
 <center>
-<img src="https://user-images.githubusercontent.com/29700816/100910692-9d050480-3511-11eb-8c7d-92eb631346f0.png width="250px"/>
+<img src="https://user-images.githubusercontent.com/29700816/100910692-9d050480-3511-11eb-8c7d-92eb631346f0.png" width="250px"/>
 </center>
 
 <br>
