@@ -56,6 +56,9 @@
 소셜 회원의 경우, 이메일을 제외한 정보를 입력하시면 됩니다.
 
 <br>
+<img width="343" alt="캡처" src="https://user-images.githubusercontent.com/29700816/107927962-0d70dd00-6fbb-11eb-97e4-9bcb32457166.PNG" alt="mainLogin" width="400px" /> 
+
+<br>
 
 <br>
 <br>
